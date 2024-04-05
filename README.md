@@ -9,7 +9,7 @@
 - ⚡ When I'm not coding, you can find me: 
   - Working out 💪🏻
   - Watching anime 👀
-  - Playing games ​​💻​
+  - Playing video games ​​💻​
  
  <h3 align="left">Experience</h3>
 
