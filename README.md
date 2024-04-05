@@ -6,7 +6,10 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Svobyyy?tab=repositories)
 
-- ⚡ **When I'm not coding, you can find me working out. 💪🏻**
+- ⚡ When I'm not coding, you can find me: 
+  - Working out 💪🏻
+  - Watching anime 👀
+  - Playing games ​​💻​
 
 
 
