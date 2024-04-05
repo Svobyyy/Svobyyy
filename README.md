@@ -10,7 +10,18 @@
   - Working out 💪🏻
   - Watching anime 👀
   - Playing games ​​💻​
+ 
+ <h3 align="left">Experience</h3>
 
+ <h4 align="left">Freelance</h4>
+<ul>
+ <li>
+  https://www.katerinamarieticha.cz/
+ </li>
+ <li>
+  https://www.dupscaled.com/
+ </li>
+</ul>
 
 
 
