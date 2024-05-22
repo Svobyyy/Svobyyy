@@ -10,6 +10,8 @@
   - Working out 💪🏻
   - Watching anime 👀
   - Playing video games ​​💻​
+  - Modeling or Sclupting 🗿
+  - Editing 🎬
  
  <h3 align="left">Experience</h3>
 
