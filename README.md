@@ -4,18 +4,14 @@
 
 - 🌱 Always learning, currently diving deep into **Next.js 14**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/Svobyyy?tab=repositories)
-
 - ⚡ When I'm not coding, you can find me: 
   - Working out 💪🏻
   - Watching anime 👀
   - Playing video games ​​💻​
   - Modeling or Sclupting 🗿
   - Editing 🎬
- 
- <h3 align="left">Experience</h3>
 
- <h4 align="left">Freelance</h4>
+ <h3 align="left">Freelance</h4>
 <ul>
  <li>
   https://www.katerinamarieticha.cz/
