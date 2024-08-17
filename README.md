@@ -6,10 +6,10 @@
 
 - ⚡ When I'm not coding, you can find me: 
   - Working out 💪🏻
+  - Modeling and Sclupting 🗿
+  - Editing and Photography 📸
   - Watching anime 👀
   - Playing video games ​​💻​
-  - Modeling or Sclupting 🗿
-  - Editing 🎬
 
  <h3 align="left">Freelance</h4>
 <ul>
