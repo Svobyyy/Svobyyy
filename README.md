@@ -8,6 +8,7 @@
   - Working out 💪🏻
   - Modeling and Sclupting 🗿
   - Editing and Photography 📸
+  - Reading books and Self Improvement 📖
   - Watching anime 👀
   - Playing video games ​​💻​
 
