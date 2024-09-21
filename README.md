@@ -1,8 +1,8 @@
 <h1 align="center">Hello!👋 I’m Matěj</h1>
-<h3 align="center">A passionate fullstack developer from Czechia</h3>
+<h3 align="center">A passionate fullstack and aspiring 3D developer from Czechia</h3>
  <img align="right" alt="Coding" width="400" src="https://github.com/Svobyyy/Svobyyy/assets/56925305/2d68f6da-dd6d-4012-8f56-a9c4f5305eea"/>
 
-- 🌱 Always learning, currently diving deep into **Next.js**
+- 🌱 Always learning, currently diving deep into **Next.js** and **React Three Fiber**
 
 - ⚡ When I'm not coding, you can find me: 
   - Working out 💪🏻
