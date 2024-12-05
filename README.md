@@ -2,7 +2,7 @@
 
 # Hello!👋 I’m Matěj
 #### A Passionate Fullstack and Aspiring 3D Developer from Czechia
-##### I'm a 20-year-old student at UJEP University. <br/><br/>
+##### I'm a 21-year-old student at UJEP University. <br/><br/>
 Dedicated to expanding my knowledge in IT and diving deep into the complex world of computers. <br/>
 My goal is to thoroughly understand the technologies I use, down to the finest details.<br/><br/>
 With a strong enthusiasm for creating captivating and immersive experiences,<br/>
